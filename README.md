@@ -24,7 +24,4 @@ The project demonstrates:
 - Python 3.9 or above.  
 - Libraries: NumPy, Pandas, Matplotlib, Seaborn.  
 
-## Getting Started  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/<your-username>/Python_Data_Analysis_Assignment.git
+
